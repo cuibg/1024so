@@ -24,7 +24,7 @@
 
 [w3cplus](http://www.w3cplus.com/) - （daily）
 
-
+[google](http://www.google.com/)
 ### 工具类
 
 [bootCDN](http://www.bootcdn.cn/)

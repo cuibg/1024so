@@ -45,6 +45,7 @@
 
 [色彩笔](http://cli.im/) - 图片在线压缩
 
+[jsapi版本](https://caniuse.com/#)
 
 ### 图片网站
 
